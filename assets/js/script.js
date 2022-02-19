@@ -17,7 +17,7 @@ const numeroIngresado = numUsuario(comparacion);
 
 // loop que multiplica desde 1 hasta el numero ingresado por el usuario
 for (i = 1; i <= numeroIngresado; i++) {
-   document.write(`${i} x ${numeroIngresado} = ${i * numeroIngresado}<br>`);
+   console.log(`${i} x ${numeroIngresado} = ${i * numeroIngresado}`);
 }
 
 // funcion que retorna el factorial de un numero ingresado
@@ -31,5 +31,5 @@ const factorialNumero = x => {
 
 // loop que muestra el factorial desde 1 hasta el numero ingresado por el usuario
 for (i = 1; i <= numeroIngresado; i++) {
-   document.write(`El factorial de ${i} es ${factorialNumero(i)}<br>`);
+   console.log(`El factorial de ${i} es ${factorialNumero(i)}`);
 }
