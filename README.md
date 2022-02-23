@@ -1,2 +1,2 @@
 # multiplicacion
-Visitame: https://malatuca.ga/multiplicacion/
+Visitame: https://diegocampuzano.ml/multiplicacion/
